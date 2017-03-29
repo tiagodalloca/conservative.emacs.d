@@ -2,6 +2,9 @@
 
 For those who don't wanna change _(conventional keybindings)_
 
+### Note
+Works **better with Emacs 25**
+
 ## Features
 
 - **_"normal"_ keybindings** for windows users (`cua-mode`)
